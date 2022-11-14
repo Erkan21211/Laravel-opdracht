@@ -43,20 +43,24 @@
 
 5. Open een nieuwe console/terminal (terminal -> new terminal)<br><br>
 
-6. En type ---> php artisan config:clear<br><br>
+
+6. type ---> composer update
+
+
+7. En type ---> php artisan config:clear<br><br>
 
 6.1: als dat niet werkt --> De file env.example !
 <br>
 haal de example weg en daarna run je --> php artisan config:clear
 
 
-6. Daarna import de database layout --> php artisan migrate<br><br>
+8. Daarna import de database layout --> php artisan migrate<br><br>
 
-7. Start de server --> php artisan serve<br><br>
+9. Start de server --> php artisan serve<br><br>
 
 
 
-8. En ga naar deze URL: http://127.0.0.1:8000/contact
+9. En ga naar deze URL: http://127.0.0.1:8000/contact
 
     als je hier bent krijg je nog screen te zien
     rechts-boven zie je: Generate Key knop <klik daarop>
@@ -64,5 +68,5 @@ haal de example weg en daarna run je --> php artisan config:clear
 
 
 
-9. Setup klaar & app klaar om te gebruiken.<br>
+10. Setup klaar & app klaar om te gebruiken.<br>
 http://127.0.0.1:8000/contact
