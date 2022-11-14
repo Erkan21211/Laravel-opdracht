@@ -47,7 +47,7 @@
 
 6. type ---> composer update
 
-[7] .env.example bestand naam veranderen naar --> .env
+[7] .env.example bestand naam veranderen naar --> .env<br><br>
 7. En type ---> php artisan config:clear<br><br>
     7.1 Daarna import de database layout --> php artisan migrate<br><br>
     7.2 type; php artisan migrate:refresh<br><br>
