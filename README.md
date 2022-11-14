@@ -1,11 +1,16 @@
 # Laravel-opdracht
 
 1. download WAMP https://sourceforge.net/projects/wampserver/ (mag ook eigen soort software gebruiken vergelijkbaar aan wamp)
+    a. DOWNLOAD alle microsoft visual C++ redistributable versions zodat wamp gelijk werkt en geen problemen oplevert.
 
 2. start Wamp
+    a. Note: 3 van 3 services werken van WAMPSERVER
 
-3. download via composer installatie: https://getcomposer.org/Composer-Setup.exe
- PHP 8.0.2 of hogere versie
+3. set PHP versie voor 8.0.2 
+    https://getcomposer.org/Composer-Setup.exe
+    https://www.php.net/releases/8_0_2.php
+
+    Note:PHP 8.0.2 of hogere versie
 
 4. Open de map met code-editor(bvb: visuel studio code)
 
