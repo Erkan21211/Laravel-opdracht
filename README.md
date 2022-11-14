@@ -25,3 +25,9 @@
 7. Start de server --> php artisan serve
 
 8. En ga naar deze URL: http://127.0.0.1:8000/contact
+    a. als je hier bent krijg je nog screen te zien
+        rechts-boven zie je: Generate Key knop
+        daarna relaad de pagina
+
+9. Setup klaar.
+
