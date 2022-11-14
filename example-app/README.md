@@ -56,6 +56,7 @@
 8. Daarna import de database layout --> php artisan migrate<br><br>
 
 9. Start de server --> php artisan serve<br><br>
+http://127.0.0.1:8000/contact
 
 
 
