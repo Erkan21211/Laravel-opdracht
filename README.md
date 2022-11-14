@@ -6,7 +6,8 @@
 2. start Wamp
     a. Note: 3 van 3 services werken van WAMPSERVER
 
-3. set PHP versie voor 8.0.2 voor Composer en WAMP in C:\wamp64\bin\php
+3. set PHP versie voor 8.0.2 voor Composer en WAMP in C:\wamp64\bin\php<br>
+
     https://getcomposer.org/Composer-Setup.exe
     https://www.php.net/releases/8_0_2.php
 
