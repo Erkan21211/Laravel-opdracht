@@ -1,5 +1,8 @@
 # Laravel-opdracht
 
+<h1>SETUP/INSTALLATIE:</h1>
+
+
 1. download WAMP https://sourceforge.net/projects/wampserver/ (mag ook eigen soort software gebruiken vergelijkbaar aan wamp)<br>
     <br>
     a. DOWNLOAD alle microsoft visual C++ redistributable versions zodat wamp gelijk werkt en geen problemen oplevert.
@@ -39,7 +42,7 @@ haal de example weg en daarna run je --> php artisan config:clear
     rechts-boven zie je: Generate Key knop <klik daarop>
     En daarna relaad de pagina
 
-    
+
 
 9. Setup klaar & app klaar om te gebruiken.<br>
 http://127.0.0.1:8000/contact
