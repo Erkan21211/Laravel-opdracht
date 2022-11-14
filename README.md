@@ -9,8 +9,9 @@
 3. set PHP versie voor 8.0.2 voor Composer en WAMP in C:\wamp64\bin\php<br>
 
     https://getcomposer.org/Composer-Setup.exe
+    <br>
     https://www.php.net/releases/8_0_2.php
-
+    <br>
     Note:PHP 8.0.2 of hogere versie
 
 4. Open de map met code-editor(bvb: visuel studio code)
@@ -20,7 +21,9 @@
 6. En type ---> php artisan config:clear
 
 6.1: als dat niet werkt --> De file env.example !
+<br>
 haal de example weg en daarna run je --> php artisan config:clear
+
 
 6. Daarna import de database layout --> php artisan migrate
 
@@ -32,5 +35,5 @@ haal de example weg en daarna run je --> php artisan config:clear
     rechts-boven zie je: Generate Key knop <klik daarop>
     En daarna relaad de pagina
 
-9. Setup klaar & app klaar om te gebruiken.
-
+9. Setup klaar & app klaar om te gebruiken.<br>
+http://127.0.0.1:8000/contact
