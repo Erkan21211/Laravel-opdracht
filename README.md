@@ -1,5 +1,25 @@
 # Laravel-opdracht
 
+<h5>Opdracht van <strong>Cotit</strong>.</h5>
+
+<p>
+
+1.	Maak een simpele contact formulier.
+
+2.	Waar je je naam, achter_naam, email, en een telefoon_nummer moet invullen, sla de naam, acthter_naam, email en telefoon_nummer op in een database.
+
+
+3.	De email mag maar 1x gebruikt worden, hij moet dus uniek zijn. 
+1.	Toon een melding als de email al bestaat.
+
+4.	Toon een pagina met alle opgevoerde data.
+
+5.	Je kan een contact bewerken.
+
+
+6.	Je kan een contact verwijderen
+</p>
+
 <h1>SETUP/INSTALLATIE:</h1>
 
 
