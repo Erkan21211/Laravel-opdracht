@@ -1,6 +1,7 @@
 # Laravel-opdracht
 
 1. download WAMP https://sourceforge.net/projects/wampserver/ (mag ook eigen soort software gebruiken vergelijkbaar aan wamp)<br>
+    <br>
     a. DOWNLOAD alle microsoft visual C++ redistributable versions zodat wamp gelijk werkt en geen problemen oplevert.
 
 2. start Wamp
