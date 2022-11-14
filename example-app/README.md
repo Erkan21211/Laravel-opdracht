@@ -43,6 +43,7 @@
 
 5. Open een nieuwe console/terminal (terminal -> new terminal)<br><br>
 
+5.5 type: cd example-app<br><br>
 
 6. type ---> composer update
 
