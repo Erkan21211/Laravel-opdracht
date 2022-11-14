@@ -4,7 +4,8 @@
 
 2. start Wamp
 
-3. download; PHP 8.0.2 of hogere versie
+3. download via composer installatie: https://getcomposer.org/Composer-Setup.exe
+ PHP 8.0.2 of hogere versie
 
 4. Open de map met code-editor(bvb: visuel studio code)
 
