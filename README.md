@@ -6,7 +6,7 @@
 2. start Wamp
     a. Note: 3 van 3 services werken van WAMPSERVER
 
-3. set PHP versie voor 8.0.2 
+3. set PHP versie voor 8.0.2 voor Composer en WAMP in C:\wamp64\bin\php
     https://getcomposer.org/Composer-Setup.exe
     https://www.php.net/releases/8_0_2.php
 
@@ -18,16 +18,18 @@
 
 6. En type ---> php artisan config:clear
 
-6.1: als dat niet werkt --> De file env.example ! haal de example weg en daarna run je --> php artisan config:clear
+6.1: als dat niet werkt --> De file env.example !
+haal de example weg en daarna run je --> php artisan config:clear
 
 6. Daarna import de database layout --> php artisan migrate
 
 7. Start de server --> php artisan serve
 
 8. En ga naar deze URL: http://127.0.0.1:8000/contact
-    a. als je hier bent krijg je nog screen te zien
-        rechts-boven zie je: Generate Key knop
-        daarna relaad de pagina
 
-9. Setup klaar.
+    als je hier bent krijg je nog screen te zien
+    rechts-boven zie je: Generate Key knop <klik daarop>
+    En daarna relaad de pagina
+
+9. Setup klaar & app klaar om te gebruiken.
 
