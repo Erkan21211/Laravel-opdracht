@@ -63,7 +63,7 @@ http://127.0.0.1:8000/contact
 9. En ga naar deze URL: http://127.0.0.1:8000/contact
 
     als je hier bent krijg je nog screen te zien
-    rechts-boven zie je: Generate Key knop <klik daarop>
+    rechts-boven zie je: Generate Key knop klik daarop
     En daarna relaad de pagina
 
 

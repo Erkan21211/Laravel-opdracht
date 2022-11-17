@@ -1,0 +1,40 @@
+Check version Laravel:
+
+php artisan --version
+
+
+Create new project:
+
+composer create-project laravel/laravel [name-project]
+
+
+
+Start server development:
+
+php artisan serve
+
+
+
+Create database layout setup:
+
+php artisan make:migration [naam-table]
+
+php artisan migrate
+
+
+
+Belangrijk!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1:
+(php artisan config:clear)
+
+
+
+
+Create Model:
+
+php artisan make:model [mymodel]
+
+
+Create Controller:
+
+php artisan make:controller mycontroller
+
